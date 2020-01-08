@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="description_textsize">14sp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="info_textsize">14sp</dimen>
+    <dimen name="title_textsize">22sp</dimen>
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+</resources>

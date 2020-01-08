@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Movies</string>
+    <string name="empty_message">Empty list</string>
+    <string name="rating">Rating \u2014 %1$s/%2$s</string>
+    <string name="api_connection_lost">Connection is lost. Check an access to the Internet.</string>
+    <string name="api_any_error">An error occurred. Try again.</string>
 </resources>
